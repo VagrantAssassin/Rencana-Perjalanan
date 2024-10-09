@@ -1,10 +1,9 @@
-bangun jam 05.30
-sarapan jam 06.00
-ngopi jam 06.20
-berangkat jam 07.20
-sampai di jakarta jam 09.00
-pergi ke dufan 11.00
-makan siang 12.00
-ngopi jam 12.20
-pulang ke bandung jam 18.30
-sampai di bandung jam 23.50
+Berangkat ke jakarta jam 07.00
+Istirahat di rest area jam 09.00
+Sampai di jakarta jam 11.00
+Pergi ke bundaran HI jam 11:00 
+Piknik di monas jam 11:45
+Makan siang jam 12.30
+Acara dufan jam 13.30
+Makan malam jam 15:00
+Pulang ke Hotel jam 18:00
