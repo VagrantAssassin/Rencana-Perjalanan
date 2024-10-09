@@ -1,4 +1,7 @@
-1. Tiket kereta pulang pergi = Rp. 1jt
-2. Uang makan = Rp. 500rb
-3. Tiket masuk tempat wisata = Rp. 200rb
-4. Biaya transportasi di jakarta = Rp. 100rb
+Tiket Dufan: Rp3.500.000
+Tiket travel : 100.000 per orang
+Biaya Trans Jakarta : 5.000 per orang
+Biaya KRL : 5.000 per orang
+Uang makan : Rp. 500rb
+Biaya transportasi ke hotel : 70.000
+Biaya hotel : 300.000 perkamar, sewa 2 kamar

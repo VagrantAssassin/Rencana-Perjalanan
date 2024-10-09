@@ -1,5 +1,7 @@
 # Rencana-Perjalanan
-latihan PTI rencana perjalanan
+latihan PTI 
+
+rencana perjalanan ke jakarta dari bandung
 
 Kelompok :
 Stevanus Ryo Wijaya (10122014)
