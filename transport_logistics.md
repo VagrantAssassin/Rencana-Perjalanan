@@ -1,3 +1,3 @@
-1. Transportasi perjalanan menggunakan lima angkot
-2. Membawa makanan/minuman snack untuk perjalan per angkot
-3. Menyewa polisi untuk pengawalan
+Transportasi menggunakan Travel untuk berangkat dari bandung ke jakarta
+Di jakarta menggunakan Trans Jakarta untuk pergi ke bundaran HI
+Dari monas menggunakan KRL lalu grab mobil untuk sampai ke dufan dan hotel
