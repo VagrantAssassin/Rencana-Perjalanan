@@ -1,1 +1,1 @@
-Berangkat menggunakan kereta cepat 
+Berangkat menggunakan kereta cepat dan menggunakan transportasi umum di jakarta
